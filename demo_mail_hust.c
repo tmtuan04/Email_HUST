@@ -8,7 +8,7 @@
 // MSSV: 20225422
 // Email sẽ là: tuantm225422@sis.hust.edu.vn
 
-// Gồm: Tên + Lần lượt các ký tự đầu tiên của họ và tên đệm + 6nsố cuối MSSV + @hust.edu.vn
+// Gồm: Tên + Lần lượt các ký tự đầu tiên của họ và tên đệm + 6 số cuối MSSV + @hust.edu.vn
 
 void main(void) {
     printf("Nhap ho va ten (viet khong dau): ");
